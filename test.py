@@ -45,7 +45,8 @@
      #   print(num, end=' ')
     #print("\r")
 
-
+   
+# 6 :- ASK USER to print Reverse  pyramid of numbers pattern
 #Note: It is a downward increment pattern where numbers get increased in each iteration.
 #  At each row, the amount of number is equal to the current row number
 
